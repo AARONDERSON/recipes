@@ -1,1 +1,2 @@
 # recipes
+This is the start of the recipes section found in The Odin Projects foundation section. I've been having a lot of fun so far and I'm super excited to put what I've learned about HTML to the test! 
